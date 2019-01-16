@@ -8,3 +8,12 @@ curation of awesome tools to help you contribute and participate in the spankcha
 4. Learn how to use Markdown language by visiting this [Markdown Cheatsheet by adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists).
 5. Learn about the tool you're using, GitHub, by visiting the [Hello World GitHub Guides](https://guides.github.com/activities/hello-world/).
 6. Decide if I want to learn GitHub or contribute in another way.
+
+---
+## SpankChain Open Source Tools:
+* [SpankChain GitHub] (https://github.com/SpankChain)
+  * [SpankBank] (https://github.com/SpankChain/spankbank)
+  * [SpankCard] (https://github.com/SpankChain/spankbank)
+  * [SpankBank Web3 UI] (https://github.com/SpankChain/spankbank-web3)
+  * [Virtual Channels] (https://github.com/SpankChain/virtual-channels)
+  * [General State Channels] (https://github.com/SpankChain/general-state-channels)
